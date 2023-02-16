@@ -110,3 +110,8 @@ h4, p{
   text-align: center;
   margin-top: 100px;
 }
+.img{
+  width: 30%;
+  border: 2px solid black;
+
+}
