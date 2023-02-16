@@ -111,7 +111,7 @@ h4, p{
   margin-top: 100px;
 }
 .img2{
-  display: block;
+  display: flex;
   width: 30%;
   border: 2px solid black;
 
