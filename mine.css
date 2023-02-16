@@ -79,6 +79,15 @@ nav ul {
   font-weight: 200;
 }
 css .menu-link { margin-left: 10px; }
+/*Education*/
+.certificate-gallery {
+  display: flex;
+  justify-content: space-around;
+}
+.certificate {
+width: 25%;
+border: 5px solid black;
+}
 /* Work History */
 h4, p{
   margin: 5px 0;
